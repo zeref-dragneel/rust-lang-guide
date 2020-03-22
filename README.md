@@ -4,9 +4,9 @@
 
 * [x] Print
 * [x] Formatting
-* [ ] Variables
-* [ ] Datatypes
-* [ ] Strings
+* [x] Variables
+* [x] Datatypes
+* [x] Strings
 * [ ] Tuples
 * [ ] Arrays
 * [ ] Vectors
